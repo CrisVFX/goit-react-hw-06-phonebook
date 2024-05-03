@@ -1,7 +1,7 @@
 .form {
   width: 400px;
   padding: 8px;
-  border: 1px solid #2a2a2a;
+  border: 1px solid #1a0afa;
   display: flex;
   flex-direction: column;
   gap: 12px;
@@ -12,12 +12,15 @@
   width: 200px;
   display: flex;
   flex-direction: column;
+  color: #1a0afa;
 }
 
 .formLabel {
   font-size: 20px;
+  color: rgb(32, 32, 34);
 }
 
 .formButton {
   width: 100px;
+  background-color: bisque;
 }
